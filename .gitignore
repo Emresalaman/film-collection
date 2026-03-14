@@ -1,0 +1,15 @@
+# Bağımlılıklar (npm install ile yeniden oluşturulabilir, GitHub'a yükleme)
+node_modules
+dist
+
+# Ortam değişkenleri (şifreler vs. - asla yükleme)
+.env
+.env.local
+
+# Editor dosyaları
+.vscode
+.idea
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
