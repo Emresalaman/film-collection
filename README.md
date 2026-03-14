@@ -24,4 +24,4 @@ npm run dev
 
 ## Ekran Görüntüsü
 
-![Film Koleksiyonu](./screenshot.png)
+![Film Koleksiyonu](./Screenshot%202026-03-14%20143621.png)
